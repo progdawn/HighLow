@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\bin\Debug\HighLow.exe.config
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\bin\Debug\HighLow.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\bin\Debug\HighLow.pdb
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\obj\Debug\HighLow.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\obj\Debug\HighLow.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_HighLow\HighLow\obj\Debug\HighLow.pdb
